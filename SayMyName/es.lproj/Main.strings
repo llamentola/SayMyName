@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Forename"; ObjectID = "0no-ZX-Fa6"; */
+"0no-ZX-Fa6.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "5dY-kc-2eq"; */
+"5dY-kc-2eq.text" = "Apellidos";
+
+/* Class = "UITextView"; text = "text"; ObjectID = "6sY-QF-FO5"; */
+"6sY-QF-FO5.text" = "text";
+
+/* Class = "UITextView"; text = "text"; ObjectID = "VIm-Q7-c2d"; */
+"VIm-Q7-c2d.text" = "text";

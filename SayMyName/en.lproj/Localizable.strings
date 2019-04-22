@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SayMyName
+
+  Created by Edna Dumas on 4/21/19.
+  Copyright © 2019 Edna Dumas. All rights reserved.
+*/
+ "SELECTED" = "You have chosen %@ %@";
+"imageName" = "logo";
